@@ -1,7 +1,7 @@
 <H3>NAME: Ashwath M</H3>
 <H3>REGISTER NO.: 212223230023</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:7.7.26</H3>
+<H3>DATE:7.8.26</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
